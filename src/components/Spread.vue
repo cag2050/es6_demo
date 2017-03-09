@@ -1,6 +1,6 @@
 <template>
 <div>{{ msg }}
-    <div>控制台有输出，查看下</div>
+    <div>控制台查看输出部分</div>
     <div>将字符串'123'转为数组 [...'123'] = {{ toArray }}</div>
     <div>[1,...[2,3,4],5] = {{ toString }}</div>
 </div>
