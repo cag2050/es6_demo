@@ -4,6 +4,7 @@
     <div><router-link to='/'>首页</router-link></div>
     <div><router-link to='Spread'>扩展运算符(3个点)</router-link></div>
     <div><router-link to='Destructuring'>解构赋值</router-link></div>
+    <div><router-link to='ObjectAssign'>Object.assign()方法使用</router-link></div>
     <router-view></router-view>
   </div>
 </template>
