@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-    name: 'Object.assign()',
+    name: 'Object_assign',
     data() {
         return {
 
